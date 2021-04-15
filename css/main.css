@@ -140,14 +140,14 @@ h3{
     margin-top: 164px;
     
 }
-.cards{
+.video__cards{
     display: flex;
     justify-content: space-between;
     margin-bottom: 105px;
 }
 
 
-.desc{
+.video__desc{
     max-width: 420px;
 }
 
