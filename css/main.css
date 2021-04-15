@@ -151,9 +151,7 @@ h3{
     max-width: 420px;
 }
 
-.section__banner{
-    width: 100%;
-}
+
 
 .video_txt{
     color:  #FFAE00;
@@ -245,8 +243,9 @@ h3{
     padding: 114px 0;
 }
 
-.cards{
+.main-bottom__cards{
     display: flex;
+    column-gap: 30px;
 }
 .card{
     max-width: 290px;
